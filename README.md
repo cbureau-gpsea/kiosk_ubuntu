@@ -39,4 +39,4 @@ The computer will restart and will turn on kiosk mode.
 
 Now, the computer turn on automatically in kiosk mode. You can turn off the computer or change user with the shortcut CTRL+ALT+SUPPR.
 
-If you want to make changes and need access to the kiosk user, copy/paste the contents of the file ***'enable_shortcuts.sh'*** into the terminal to re-enable the shortcuts. Shortcuts will be disabled on next reboot.
+If you want to make changes and need access to the kiosk user, execute the file ***'enable_shortcuts.sh'*** into the terminal to re-enable the shortcuts. Shortcuts will be disabled on next reboot.
