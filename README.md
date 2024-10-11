@@ -15,7 +15,7 @@ sudo ./installer_kiosk_root.sh
 ```
 Type a password for the user ***'kiosk'***, press **ENTER** to leave empty fields and press **O** to confirm. The computer will restart.
 
-Now, open the kiosk session. Open Firefox then go in **Parameter** > **Privacy and security**, go down until **Passwords** and uncheck all of **Passwords** and **Autofill**. Change in **History**, **Keep history** in **Never keep history**.
+Now, open the kiosk session. Open Firefox then go in **Parameter** > **Privacy and security**, go down until **Passwords** and uncheck all of **Passwords** and **Autofill**. Change in **History**, **Remember history** in **Never remember history**.
 
 Add extension **BlockSite** and on their website, click on **Redirect**, type the website of the kiosk mode and check **Whitelist mode**.
 
