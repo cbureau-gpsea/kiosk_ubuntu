@@ -28,7 +28,7 @@ Finally move the file ***'installer_kiosk.sh'*** on the desktop, open a terminal
 ```bash
 su [name_of_root_user]
 
-sudo –s
+sudo –i
 
 cd Desktop
 
