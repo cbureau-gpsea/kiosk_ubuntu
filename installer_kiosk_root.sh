@@ -16,6 +16,10 @@ then
 else
 	echo -e "\e[0;31mErreur: l'utilisateur 'kiosk' N'a PAS été créé.\e[1;37m"
 fi
+
+apt update
+apt upgrade
+
 sleep 2
 
 echo -e "\e[0;31mL'ordinateur va redémarrer dans 5s...\e[1;37m"
