@@ -30,7 +30,7 @@ su [name_of_root_user]
 
 sudo –i
 
-cd Desktop
+cd /home/kiosk/Desktop
 
 sudo chmod +x installer_kiosk.sh
 
