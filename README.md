@@ -32,9 +32,9 @@ sudo –i
 
 cd /home/kiosk/Desktop
 
-sudo chmod +x installer_kiosk.sh
+chmod +x installer_kiosk.sh
 
-sudo ./installer_kiosk.sh 
+./installer_kiosk.sh 
 ```
 
 The computer will restart and will turn on kiosk mode. 
